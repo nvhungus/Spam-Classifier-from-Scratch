@@ -18,12 +18,12 @@ To run the spam classifier, execute the Jupyter Notebook Spam_Classifier.ipynb w
 
 # Model Performance
 The Naive Bayes classifier achieved the following results:
-- Training Set (Seen Data):
+1. Training Set (Seen Data):
 + Accuracy: 99.15%
 + Precision: 99.21%
 + Recall: 99.13%
 + F1-score: 99.17%
-- Validation Set (Unseen Data):
+2. Validation Set (Unseen Data):
 + Accuracy: 98.90%
 + Precision: 98.85%
 + Recall: 98.98%
